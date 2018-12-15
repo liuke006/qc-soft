@@ -1,0 +1,19 @@
+   
+    qc-soft（青橙软件园）是一个网站，可在宁夏师范学院校园网下访问
+        网址：10.16.177.143 （http://10.16.177.143/）  网站资源访问：ftp://10.16.177.143
+    主页是静态网页，HTML主要利用CSS。发布PS、office、系统安装、必备工具、实用干货、课程视频、电影资源，方便学生下载使用
+
+
+  可直接打开 qc-soft.html 文件查看作品， 可跳转Photoshop，电影等子页面，其余为FTP链接，微信公众号连接及网站链接。
+  查看源代码鼠标右击 qc-soft.html 文件，打开方式选择记事本，可查看源代码。同样打开html文件夹下 movie.html Photoshop.html查看其源代码
+  CSS文件夹是CSS文件，可用记事本打开。img文件夹是图片文件。
+   
+  不同浏览器访问效果不一样，网页制作是以Chrome为准
+  
+
+
+
+
+  作品百度网盘链接：链接：https://pan.baidu.com/s/1o8oQB3c 密码：u655
+
+  作品展示链接：http://video.tudou.com/v/XMzA5NDEyMzI5Mg==.html?spm=a2hzp.8253869.0.0 密码：13579
